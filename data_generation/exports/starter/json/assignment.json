@@ -1,0 +1,397 @@
+[
+  {
+    "assignment_id": "ASN-2026-000001",
+    "course_id": "CRS-2026-000001",
+    "title": "Project Deliverable #1: Computer Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for CS-501.",
+    "max_score": 100.0,
+    "due_date": "2026-09-11T23:59:00+00:00",
+    "cutoff_date": "2026-09-14T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-08-21T23:59:00+00:00",
+    "updated_at": "2026-08-21T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000002",
+    "course_id": "CRS-2026-000002",
+    "title": "Project Deliverable #1: Data Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for DS-502.",
+    "max_score": 100.0,
+    "due_date": "2026-09-17T23:59:00+00:00",
+    "cutoff_date": "2026-09-20T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-08-27T23:59:00+00:00",
+    "updated_at": "2026-08-27T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000003",
+    "course_id": "CRS-2026-000003",
+    "title": "Project Deliverable #1: Software Engineering Practical Lab",
+    "description": "Hands-on technical implementation deliverable for SE-503.",
+    "max_score": 100.0,
+    "due_date": "2026-09-22T23:59:00+00:00",
+    "cutoff_date": "2026-09-25T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-01T23:59:00+00:00",
+    "updated_at": "2026-09-01T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000004",
+    "course_id": "CRS-2026-000004",
+    "title": "Project Deliverable #1: Artificial Intelligence Practical Lab",
+    "description": "Hands-on technical implementation deliverable for AI-504.",
+    "max_score": 100.0,
+    "due_date": "2026-09-25T23:59:00+00:00",
+    "cutoff_date": "2026-09-28T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-04T23:59:00+00:00",
+    "updated_at": "2026-09-04T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000005",
+    "course_id": "CRS-2026-000005",
+    "title": "Project Deliverable #1: Cybersecurity Practical Lab",
+    "description": "Hands-on technical implementation deliverable for C-505.",
+    "max_score": 100.0,
+    "due_date": "2026-09-25T23:59:00+00:00",
+    "cutoff_date": "2026-09-28T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-04T23:59:00+00:00",
+    "updated_at": "2026-09-04T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000006",
+    "course_id": "CRS-2026-000001",
+    "title": "Project Deliverable #2: Computer Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for CS-501.",
+    "max_score": 100.0,
+    "due_date": "2026-09-19T23:59:00+00:00",
+    "cutoff_date": "2026-09-22T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-08-29T23:59:00+00:00",
+    "updated_at": "2026-08-29T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000007",
+    "course_id": "CRS-2026-000002",
+    "title": "Project Deliverable #2: Data Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for DS-502.",
+    "max_score": 100.0,
+    "due_date": "2026-09-22T23:59:00+00:00",
+    "cutoff_date": "2026-09-25T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf",
+      "dataset_csv"
+    ],
+    "status": "published",
+    "created_at": "2026-09-01T23:59:00+00:00",
+    "updated_at": "2026-09-01T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000008",
+    "course_id": "CRS-2026-000003",
+    "title": "Project Deliverable #2: Software Engineering Practical Lab",
+    "description": "Hands-on technical implementation deliverable for SE-503.",
+    "max_score": 100.0,
+    "due_date": "2026-09-29T23:59:00+00:00",
+    "cutoff_date": "2026-10-02T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-08T23:59:00+00:00",
+    "updated_at": "2026-09-08T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000009",
+    "course_id": "CRS-2026-000004",
+    "title": "Project Deliverable #2: Artificial Intelligence Practical Lab",
+    "description": "Hands-on technical implementation deliverable for AI-504.",
+    "max_score": 100.0,
+    "due_date": "2026-09-28T23:59:00+00:00",
+    "cutoff_date": "2026-10-01T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-07T23:59:00+00:00",
+    "updated_at": "2026-09-07T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000010",
+    "course_id": "CRS-2026-000005",
+    "title": "Project Deliverable #2: Cybersecurity Practical Lab",
+    "description": "Hands-on technical implementation deliverable for C-505.",
+    "max_score": 100.0,
+    "due_date": "2026-09-30T23:59:00+00:00",
+    "cutoff_date": "2026-10-03T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-09T23:59:00+00:00",
+    "updated_at": "2026-09-09T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000011",
+    "course_id": "CRS-2026-000001",
+    "title": "Project Deliverable #3: Computer Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for CS-501.",
+    "max_score": 100.0,
+    "due_date": "2026-09-28T23:59:00+00:00",
+    "cutoff_date": "2026-10-01T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf",
+      "video_presentation"
+    ],
+    "status": "published",
+    "created_at": "2026-09-07T23:59:00+00:00",
+    "updated_at": "2026-09-07T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000012",
+    "course_id": "CRS-2026-000002",
+    "title": "Project Deliverable #3: Data Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for DS-502.",
+    "max_score": 100.0,
+    "due_date": "2026-10-02T23:59:00+00:00",
+    "cutoff_date": "2026-10-05T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-11T23:59:00+00:00",
+    "updated_at": "2026-09-11T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000013",
+    "course_id": "CRS-2026-000003",
+    "title": "Project Deliverable #3: Software Engineering Practical Lab",
+    "description": "Hands-on technical implementation deliverable for SE-503.",
+    "max_score": 100.0,
+    "due_date": "2026-10-04T23:59:00+00:00",
+    "cutoff_date": "2026-10-07T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-13T23:59:00+00:00",
+    "updated_at": "2026-09-13T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000014",
+    "course_id": "CRS-2026-000004",
+    "title": "Project Deliverable #3: Artificial Intelligence Practical Lab",
+    "description": "Hands-on technical implementation deliverable for AI-504.",
+    "max_score": 100.0,
+    "due_date": "2026-10-09T23:59:00+00:00",
+    "cutoff_date": "2026-10-12T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf",
+      "dataset_csv"
+    ],
+    "status": "published",
+    "created_at": "2026-09-18T23:59:00+00:00",
+    "updated_at": "2026-09-18T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000015",
+    "course_id": "CRS-2026-000005",
+    "title": "Project Deliverable #3: Cybersecurity Practical Lab",
+    "description": "Hands-on technical implementation deliverable for C-505.",
+    "max_score": 100.0,
+    "due_date": "2026-10-08T23:59:00+00:00",
+    "cutoff_date": "2026-10-11T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf",
+      "video_presentation"
+    ],
+    "status": "published",
+    "created_at": "2026-09-17T23:59:00+00:00",
+    "updated_at": "2026-09-17T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000016",
+    "course_id": "CRS-2026-000001",
+    "title": "Project Deliverable #4: Computer Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for CS-501.",
+    "max_score": 100.0,
+    "due_date": "2026-10-05T23:59:00+00:00",
+    "cutoff_date": "2026-10-08T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf",
+      "dataset_csv"
+    ],
+    "status": "published",
+    "created_at": "2026-09-14T23:59:00+00:00",
+    "updated_at": "2026-09-14T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000017",
+    "course_id": "CRS-2026-000002",
+    "title": "Project Deliverable #4: Data Science Practical Lab",
+    "description": "Hands-on technical implementation deliverable for DS-502.",
+    "max_score": 100.0,
+    "due_date": "2026-10-10T23:59:00+00:00",
+    "cutoff_date": "2026-10-13T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "code_repository",
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-19T23:59:00+00:00",
+    "updated_at": "2026-09-19T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000018",
+    "course_id": "CRS-2026-000003",
+    "title": "Project Deliverable #4: Software Engineering Practical Lab",
+    "description": "Hands-on technical implementation deliverable for SE-503.",
+    "max_score": 100.0,
+    "due_date": "2026-10-11T23:59:00+00:00",
+    "cutoff_date": "2026-10-14T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf",
+      "video_presentation"
+    ],
+    "status": "published",
+    "created_at": "2026-09-20T23:59:00+00:00",
+    "updated_at": "2026-09-20T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000019",
+    "course_id": "CRS-2026-000004",
+    "title": "Project Deliverable #4: Artificial Intelligence Practical Lab",
+    "description": "Hands-on technical implementation deliverable for AI-504.",
+    "max_score": 100.0,
+    "due_date": "2026-10-12T23:59:00+00:00",
+    "cutoff_date": "2026-10-15T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-21T23:59:00+00:00",
+    "updated_at": "2026-09-21T23:59:00+00:00"
+  },
+  {
+    "assignment_id": "ASN-2026-000020",
+    "course_id": "CRS-2026-000005",
+    "title": "Project Deliverable #4: Cybersecurity Practical Lab",
+    "description": "Hands-on technical implementation deliverable for C-505.",
+    "max_score": 100.0,
+    "due_date": "2026-10-15T23:59:00+00:00",
+    "cutoff_date": "2026-10-18T23:59:00+00:00",
+    "late_penalty_per_day": 5.0,
+    "max_late_days": 3,
+    "grace_period_minutes": 15,
+    "max_resubmissions": 1,
+    "required_artifact_types": [
+      "report_pdf"
+    ],
+    "status": "published",
+    "created_at": "2026-09-24T23:59:00+00:00",
+    "updated_at": "2026-09-24T23:59:00+00:00"
+  }
+]

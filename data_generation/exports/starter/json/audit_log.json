@@ -1,0 +1,116 @@
+[
+  {
+    "audit_id": "AUD-2026-000001",
+    "entity_name": "grade",
+    "entity_id": "GRD-SUB-ASN-2026-000014-LNR-2026-000091-01",
+    "action": "APPEAL_DECISION",
+    "actor_id": "USR-DEAN-0008",
+    "actor_role": "academic_committee",
+    "timestamp": "2026-10-14T19:24:42.444316+00:00",
+    "old_values": {
+      "final_score": 88.25,
+      "grade_status": "published"
+    },
+    "new_values": {
+      "final_score": 99.25,
+      "grade_status": "revised"
+    },
+    "client_ip": "192.168.1.105",
+    "user_agent": "EduFlow-AdjudicationPanel/1.0"
+  },
+  {
+    "audit_id": "AUD-2026-000002",
+    "entity_name": "grade",
+    "entity_id": "GRD-SUB-ASN-2026-000013-LNR-2026-000039-01",
+    "action": "APPEAL_DECISION",
+    "actor_id": "USR-DEAN-0009",
+    "actor_role": "academic_committee",
+    "timestamp": "2026-10-08T13:39:30.322914+00:00",
+    "old_values": {
+      "final_score": 98.33,
+      "grade_status": "published"
+    },
+    "new_values": {
+      "final_score": 100.0,
+      "grade_status": "revised"
+    },
+    "client_ip": "192.168.1.105",
+    "user_agent": "EduFlow-AdjudicationPanel/1.0"
+  },
+  {
+    "audit_id": "AUD-2026-000003",
+    "entity_name": "grade",
+    "entity_id": "GRD-SUB-ASN-2026-000003-LNR-2026-000061-01",
+    "action": "APPEAL_DECISION",
+    "actor_id": "USR-DEAN-0006",
+    "actor_role": "academic_committee",
+    "timestamp": "2026-10-02T02:06:25.510187+00:00",
+    "old_values": {
+      "final_score": 92.46,
+      "grade_status": "published"
+    },
+    "new_values": {
+      "final_score": 99.56,
+      "grade_status": "revised"
+    },
+    "client_ip": "192.168.1.105",
+    "user_agent": "EduFlow-AdjudicationPanel/1.0"
+  },
+  {
+    "audit_id": "AUD-2026-000004",
+    "entity_name": "grade",
+    "entity_id": "GRD-SUB-ASN-2026-000017-LNR-2026-000046-01",
+    "action": "APPEAL_DECISION",
+    "actor_id": "USR-DEAN-0003",
+    "actor_role": "academic_committee",
+    "timestamp": "2026-10-21T02:01:39.018475+00:00",
+    "old_values": {
+      "final_score": 81.48,
+      "grade_status": "published"
+    },
+    "new_values": {
+      "final_score": 88.39,
+      "grade_status": "revised"
+    },
+    "client_ip": "192.168.1.105",
+    "user_agent": "EduFlow-AdjudicationPanel/1.0"
+  },
+  {
+    "audit_id": "AUD-2026-000005",
+    "entity_name": "grade",
+    "entity_id": "GRD-SUB-ASN-2026-000005-LNR-2026-000044-01",
+    "action": "APPEAL_DECISION",
+    "actor_id": "USR-DEAN-0003",
+    "actor_role": "academic_committee",
+    "timestamp": "2026-10-07T13:42:36.297713+00:00",
+    "old_values": {
+      "final_score": 97.16,
+      "grade_status": "published"
+    },
+    "new_values": {
+      "final_score": 100.0,
+      "grade_status": "revised"
+    },
+    "client_ip": "192.168.1.105",
+    "user_agent": "EduFlow-AdjudicationPanel/1.0"
+  },
+  {
+    "audit_id": "AUD-2026-000006",
+    "entity_name": "grade",
+    "entity_id": "GRD-SUB-ASN-2026-000018-LNR-2026-000005-01",
+    "action": "APPEAL_DECISION",
+    "actor_id": "USR-DEAN-0002",
+    "actor_role": "academic_committee",
+    "timestamp": "2026-10-19T08:44:55.553165+00:00",
+    "old_values": {
+      "final_score": 74.84,
+      "grade_status": "published"
+    },
+    "new_values": {
+      "final_score": 81.29,
+      "grade_status": "revised"
+    },
+    "client_ip": "192.168.1.105",
+    "user_agent": "EduFlow-AdjudicationPanel/1.0"
+  }
+]

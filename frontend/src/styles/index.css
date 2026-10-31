@@ -1,0 +1,179 @@
+:root {
+  --primary-color: #3b82f6;
+  --primary-dark: #1d4ed8;
+  --primary-light: #eff6ff;
+  --secondary-color: #6366f1;
+  --accent-color: #06b6d4;
+  --success-color: #10b981;
+  --warning-color: #f59e0b;
+  --danger-color: #ef4444;
+  --neutral-dark: #0f172a;
+  --neutral-muted: #64748b;
+  --neutral-light: #f8fafc;
+  --card-border: #e2e8f0;
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+  --card-shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: #f8fafc;
+  color: #1e293b;
+  min-height: 100vh;
+}
+
+code, pre, .font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #475569;
+  transition: all 0.2s ease;
+  border-radius: 6px;
+  padding: 0.5rem 0.85rem !important;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: #2563eb !important;
+  background-color: #eff6ff;
+}
+
+/* Cards & Containers */
+.card-eduflow {
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-eduflow:hover {
+  box-shadow: var(--card-shadow-hover);
+}
+
+.card-header-clean {
+  background: transparent;
+  border-bottom: 1px solid #f1f5f9;
+  padding: 1.1rem 1.4rem;
+  font-weight: 600;
+}
+
+/* Dashboard Stat Cards */
+.stat-card {
+  padding: 1.25rem;
+  border-radius: 12px;
+  border: 1px solid var(--card-border);
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.stat-icon-wrapper {
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.35rem;
+}
+
+/* Badges */
+.badge-status {
+  padding: 0.35rem 0.75rem;
+  border-radius: 9999px;
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.badge-draft { background-color: #f1f5f9; color: #475569; }
+.badge-published { background-color: #dbeafe; color: #1d4ed8; }
+.badge-submitted { background-color: #e0e7ff; color: #4338ca; }
+.badge-graded { background-color: #d1fae5; color: #065f46; }
+.badge-appealed { background-color: #fef3c7; color: #92400e; }
+.badge-approved { background-color: #dcfce7; color: #166534; }
+.badge-rejected { background-color: #fee2e2; color: #991b1b; }
+
+/* Custom Buttons */
+.btn-primary-gradient {
+  background: linear-gradient(135deg, #2563eb, #4f46e5);
+  color: white;
+  border: none;
+  font-weight: 600;
+  transition: opacity 0.2s ease;
+}
+
+.btn-primary-gradient:hover {
+  color: white;
+  opacity: 0.92;
+}
+
+/* Tables */
+.table-eduflow {
+  margin-bottom: 0;
+}
+
+.table-eduflow th {
+  background-color: #f8fafc;
+  color: #64748b;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 1px solid #e2e8f0;
+  padding: 0.85rem 1rem;
+}
+
+.table-eduflow td {
+  padding: 0.95rem 1rem;
+  vertical-align: middle;
+  border-bottom: 1px solid #f1f5f9;
+  font-size: 0.9rem;
+}
+
+/* Role Selector Pill */
+.role-badge {
+  cursor: pointer;
+  padding: 0.35rem 0.75rem;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.role-badge.active {
+  background-color: #2563eb;
+  color: white;
+}
+
+.role-badge:not(.active) {
+  background-color: #f1f5f9;
+  color: #64748b;
+}
+
+.role-badge:not(.active):hover {
+  background-color: #e2e8f0;
+  color: #1e293b;
+}
+
+/* Modals */
+.modal-content {
+  border-radius: 14px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+}
+

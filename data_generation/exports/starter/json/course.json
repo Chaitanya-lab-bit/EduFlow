@@ -1,0 +1,72 @@
+[
+  {
+    "course_id": "CRS-2026-000001",
+    "code": "CS-501",
+    "title": "Advanced Computer Science Studies 1",
+    "description": "Comprehensive graduate-level coursework in Computer Science.",
+    "department": "Computer Science",
+    "term": "Fall 2026",
+    "timezone": "America/New_York",
+    "status": "active",
+    "start_date": "2026-08-27T00:00:00+00:00",
+    "end_date": "2026-12-22T23:59:59+00:00",
+    "created_at": "2026-07-28T00:00:00+00:00",
+    "updated_at": "2026-07-28T00:00:00+00:00"
+  },
+  {
+    "course_id": "CRS-2026-000002",
+    "code": "DS-502",
+    "title": "Advanced Data Science Studies 2",
+    "description": "Comprehensive graduate-level coursework in Data Science.",
+    "department": "Data Science",
+    "term": "Fall 2026",
+    "timezone": "America/New_York",
+    "status": "active",
+    "start_date": "2026-08-31T00:00:00+00:00",
+    "end_date": "2026-12-26T23:59:59+00:00",
+    "created_at": "2026-08-01T00:00:00+00:00",
+    "updated_at": "2026-08-01T00:00:00+00:00"
+  },
+  {
+    "course_id": "CRS-2026-000003",
+    "code": "SE-503",
+    "title": "Advanced Software Engineering Studies 3",
+    "description": "Comprehensive graduate-level coursework in Software Engineering.",
+    "department": "Software Engineering",
+    "term": "Fall 2026",
+    "timezone": "America/New_York",
+    "status": "active",
+    "start_date": "2026-09-04T00:00:00+00:00",
+    "end_date": "2026-12-30T23:59:59+00:00",
+    "created_at": "2026-08-05T00:00:00+00:00",
+    "updated_at": "2026-08-05T00:00:00+00:00"
+  },
+  {
+    "course_id": "CRS-2026-000004",
+    "code": "AI-504",
+    "title": "Advanced Artificial Intelligence Studies 4",
+    "description": "Comprehensive graduate-level coursework in Artificial Intelligence.",
+    "department": "Artificial Intelligence",
+    "term": "Fall 2026",
+    "timezone": "UTC",
+    "status": "active",
+    "start_date": "2026-09-06T00:00:00+00:00",
+    "end_date": "2027-01-01T23:59:59+00:00",
+    "created_at": "2026-08-07T00:00:00+00:00",
+    "updated_at": "2026-08-07T00:00:00+00:00"
+  },
+  {
+    "course_id": "CRS-2026-000005",
+    "code": "C-505",
+    "title": "Advanced Cybersecurity Studies 5",
+    "description": "Comprehensive graduate-level coursework in Cybersecurity.",
+    "department": "Cybersecurity",
+    "term": "Fall 2026",
+    "timezone": "America/New_York",
+    "status": "active",
+    "start_date": "2026-09-06T00:00:00+00:00",
+    "end_date": "2027-01-01T23:59:59+00:00",
+    "created_at": "2026-08-07T00:00:00+00:00",
+    "updated_at": "2026-08-07T00:00:00+00:00"
+  }
+]
